@@ -1,0 +1,30 @@
+table {
+  color: green;
+  font-family: "Courier New", Courier, monospace;
+  font-size: medium;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+thead {
+  color: blue;
+  font-size: x-large;
+  border: 1px solid;
+}
+
+td {
+  color: green;
+  font-size: x-large;
+  border: 1px solid rgb(0, 255, 106);
+}
+tr {
+  color: green;
+  font-size: x-large;
+  border: 1px solid red;
+}
+
+th {
+  color: black;
+  font-size: x-large;
+  border: 1px solid red;
+}

@@ -1,0 +1,48 @@
+ h1 {
+color: black;
+font-family: 'Courier New', Courier, monospace;
+font-size: medium
+}
+
+
+table {
+    color:green;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    table-layout: fixed;
+    border-collapse: collapse
+    }
+
+
+    thead {
+        color: blue;
+        font-size: x-large;
+        border: 1px solid
+    }
+
+    td{
+        color:green;
+        font-size: x-large;
+        border: 1px solid red;
+    } 
+    tr{
+        color:green;
+        font-size: x-large;
+        border: 1px solid red;
+    } 
+
+
+.boldClass
+    { 
+ font-weight: bold;
+    }
+
+    .italicClass
+    { 
+  font-style: italic;
+    }
+    
+    .colorClass
+    { 
+      color:red
+    }
